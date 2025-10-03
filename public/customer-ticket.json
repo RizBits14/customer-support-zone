@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "The user is unable to log in to their account despite providing the correct credentials. They are receiving an error message indicating invalid login information, even though the username and password are accurate. This is preventing access to the platform entirely, and the issue persists across different browsers and devices. The user has tried resetting their password, but the problem remains unresolved.",
+    "customer": "Alice Johnson",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": 2,
+    "title": "Page Not Loading",
+    "description": "The homepage of the website is stuck on the loading spinner and never fully renders. Users attempting to access the page are greeted with an indefinite spinning icon, and no content appears to load. This issue occurs for both new visitors and logged-in users, and clearing the browser cache does not seem to resolve it. The site performance is significantly impacted, affecting user engagement and potential sales conversions.",
+    "customer": "Bob Smith",
+    "priority": "Medium Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-24"
+  },
+  {
+    "id": 3,
+    "title": "Payment Gateway Error",
+    "description": "Customers attempting to make payments using Visa cards are encountering errors during the checkout process. The payment gateway fails to process Visa transactions, leading to a decline in successful purchases. The error message displayed is vague, providing no specific details about why the transaction is being rejected. The issue is impacting several customers, especially those who rely on Visa as their preferred payment method.",
+    "customer": "Charlie Lee",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 4,
+    "title": "Profile Picture Upload",
+    "description": "Users are unable to upload or update their profile pictures. When they attempt to upload a new image, the system either freezes or returns an error message. The issue persists across different image file types, including PNG and JPEG, and no specific reason for the failure is given. This is particularly frustrating for users who want to personalize their accounts and could affect user satisfaction with the platform.",
+    "customer": "Diana Ross",
+    "priority": "Low Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 5,
+    "title": "Notification Delay",
+    "description": "Push notifications are being delayed by approximately 15 minutes, with users reporting that they do not receive alerts in real time. This is causing frustration for users who rely on timely notifications for updates, messages, or alerts. The delay is consistent across multiple devices and is not limited to a specific notification type. This delay could potentially affect the platform’s effectiveness, especially for time-sensitive notifications.",
+    "customer": "Ethan Hunt",
+    "priority": "Medium Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 6,
+    "title": "Search Function Broken",
+    "description": "The search functionality on the platform is not working as expected. Users enter valid keywords and phrases, but the search returns no results, even when the relevant content or items are available. This issue seems to affect both general searches and more advanced filter-based searches. As a result, users are unable to find the information or products they’re looking for, leading to a poor user experience and potentially reduced platform usage.",
+    "customer": "Fiona Gallagher",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 7,
+    "title": "UI Glitch on Dashboard",
+    "description": "There is a visual glitch on the dashboard when viewed on mobile devices. The widgets and other elements on the page overlap or shift positions, making the interface difficult to navigate. This issue is particularly noticeable on smaller screen sizes, causing a jumbled appearance that affects user interactions. Users are unable to efficiently access or interact with their data, and this issue needs to be fixed to ensure a responsive and accessible mobile experience.",
+    "customer": "George Michael",
+    "priority": "Low Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 8,
+    "title": "Forgot Password Link",
+    "description": "The Forgot Password link, which is supposed to direct users to a page where they can reset their passwords, leads to a 404 error page instead. Users who attempt to recover their account credentials are left without a way to regain access. The broken link is causing significant frustration for users who are locked out of their accounts, and it needs immediate attention to restore functionality.",
+    "customer": "Hannah Baker",
+    "priority": "Medium Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-18T14:00:00"
+  },
+  {
+    "id": 9,
+    "title": "Slow Loading Reports",
+    "description": "The reports page is taking more than 30 seconds to load, even with relatively small datasets. Users who rely on reports for business decision-making are experiencing delays in accessing critical data, causing frustration and inefficiencies. The slow loading times are impacting user productivity, and some users have reported abandoning the process due to the extended wait time. Optimization of the report generation process is needed to improve the overall user.",
+    "customer": "Ian Curtis",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-17"
+  },
+  {
+    "id": 10,
+    "title": "Email Not Sent",
+    "description": "Confirmation emails are not being sent to users after they complete actions like registration, order placement, or password resets. Many users have reported not receiving any confirmation email, even though the system shows that the emails were generated and sent. This is causing confusion and trust issues for users who rely on these emails for verification and security. The issue appears to be widespread and requires urgent attention to ensure proper delivery.",
+    "customer": "Jessica Jones",
+    "priority": "Medium Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-16"
+  },
+  {
+    "id": 11,
+    "title": "Broken Links in FAQ",
+    "description": "Several links in the Frequently Asked Questions (FAQ) section are broken and redirect users to the homepage. This issue prevents users from accessing important information related to their accounts or services. The broken links are scattered throughout the FAQ page, making it difficult for users to navigate the support resources. This is a critical issue that affects user trust and the ability to find self-help information on the platform.",
+    "customer": "Kevin Durant",
+    "priority": "Low Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-15"
+  },
+  {
+    "id": 12,
+    "title": "Data Export Failed",
+    "description": "Users are unable to export reports as CSV files, which is a key feature for users who need to analyze or share their data externally. When attempting to export, the system either returns an error or does not generate the file at all. This issue affects users across various report types, and it has been reported as a major obstacle for those who rely on data exports for further analysis. A resolution is required to restore this essential functionality.",
+    "customer": "Laura Palmer",
+    "priority": "High Priority",
+    "status": "In Progress",
+    "createdAt": "2025-09-14"
+  }
+]
