@@ -14,5 +14,6 @@ A React-based ticket tracking system that allows users to manage customer suppor
 - React.js
 - Tailwind CSS
 - React-Toastify
+- React-Icons
 - JavaScript (ES6+)
 - HTML & CSS
